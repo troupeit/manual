@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Show Management',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    imgSrc: '/img/show_management.png',
     description: (
       <>
         Create detailed cue sheets with timing, technical notes, and media files.
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Real-Time Collaboration',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    imgSrc: '/img/live.png',
     description: (
       <>
         Track show progress live with your entire crew. Everyone sees the same
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Act Submissions',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    imgSrc: '/img/submissions.png',
     description: (
       <>
         Let performers submit their acts with all technical requirements. Review
@@ -35,11 +35,11 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({imgSrc, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={imgSrc} className={styles.featureSvg} alt={title} />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
