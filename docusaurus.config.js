@@ -87,7 +87,11 @@ const config = {
             position: 'left',
             label: 'User Manual',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: 'https://blog.troupeit.com',
+            label: 'Blog', 
+            position: 'left'
+          },
           {
             href: 'https://troupeit.com',
             label: 'TroupeIT.com',
@@ -127,10 +131,6 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'TroupeIT.com',
                 href: 'https://troupeit.com',
