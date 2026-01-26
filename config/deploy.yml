@@ -1,0 +1,39 @@
+# Kamal deployment configuration for TroupeIT Documentation Site
+# Deploy with: kamal deploy (or skiff deploy if using kamal-skiff gem)
+
+service: troupeit-docs
+
+# Docker image name
+image: troupeit-docs
+
+# Deploy to the same server as the main TroupeIT app
+servers:
+  web:
+    hosts:
+      - app.troupeit.com
+
+# Proxy configuration - kamal-proxy handles TLS termination
+proxy:
+  ssl: true
+  host: docs.troupeit.com
+  app_port: 80
+  healthcheck:
+    path: /health
+    interval: 30
+
+# Use the same private registry as the main app
+registry:
+  server: registry.troupeit.com
+  username: troupeit
+  password:
+    - REGISTRY_PASSWORD
+
+# Build configuration
+builder:
+  arch: amd64
+  # Build on the remote machine to match architecture
+  remote: ssh://root@app.troupeit.com
+
+# No environment variables needed for static site
+env:
+  clear: {}

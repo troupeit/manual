@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunktroupeit=globalThis.webpackChunktroupeit||[]).push([[8947],{6600(t){t.exports=JSON.parse('{"authors":[{"name":"TroupeIT Team","title":"TroupeIT","url":"https://troupeit.com","key":"troupeit","page":null,"count":0}]}')}}]);
