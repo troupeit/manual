@@ -6,6 +6,7 @@ const FeatureList = [
   {
     title: 'Show Management',
     imgSrc: '/img/show_management.png',
+    imgLink: '/docs/shows/creating-shows',
     description: (
       <>
         Create detailed cue sheets with timing, technical notes, and media files.
@@ -16,6 +17,7 @@ const FeatureList = [
   {
     title: 'Real-Time Collaboration',
     imgSrc: '/img/live.png',
+    imgLink: '/docs/running-a-show/live-view',
     description: (
       <>
         Track show progress live with your entire crew. Everyone sees the same
@@ -26,6 +28,7 @@ const FeatureList = [
   {
     title: 'Act Submissions',
     imgSrc: '/img/submissions.png',
+    imgLink: '/docs/acts/submitting-acts',
     description: (
       <>
         Let performers submit their acts with all technical requirements. Review
@@ -35,11 +38,13 @@ const FeatureList = [
   },
 ];
 
-function Feature({imgSrc, title, description}) {
+function Feature({imgSrc, imgLink, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <img src={imgSrc} className={styles.featureSvg} alt={title} />
+        <a href={imgLink}>
+          <img src={imgSrc} className={styles.featureImage} alt={title} />
+        </a>
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
