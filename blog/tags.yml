@@ -1,0 +1,11 @@
+announcements:
+  label: Announcements
+  description: TroupeIT announcements and updates
+
+features:
+  label: Features
+  description: New feature announcements
+
+tips:
+  label: Tips
+  description: Tips and best practices

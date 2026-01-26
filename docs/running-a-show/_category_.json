@@ -1,0 +1,8 @@
+{
+  "label": "Running a Show",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "Use Live View and other tools to run your show in real-time."
+  }
+}
