@@ -39,8 +39,17 @@ kamal setup
 After making changes to documentation:
 
 ```bash
+
+# clear build folder
+rm -rf build
+
 # Build the static site
 npm run build
+
+# commit everything to git
+git add build 
+git commit -a -m '... message ...'
+git push
 
 # Deploy to production
 kamal deploy
