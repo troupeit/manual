@@ -11,7 +11,7 @@ sidebar_position: 2
 3. Enter your email address and password
 4. Click **Sign In**
 
-If you have two-factor authentication enabled, you'll be prompted for your authentication code after entering your password.
+If you have [two-factor authentication](./two-factor-authentication) enabled, you'll be prompted for your authentication code after entering your password.
 
 ## Forgot Password?
 

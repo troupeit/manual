@@ -6,6 +6,10 @@ sidebar_position: 4
 
 After logging in, you'll see your Dashboard, which is your home base in TroupeIT.
 
+## Trial Status
+
+If you're on a free trial, you'll see a notice showing how many days remain. This helps you keep track of when to [subscribe to a plan](/docs/companies/subscription-plans) to continue with full access.
+
 ## Dashboard Sections
 
 The Dashboard displays:
