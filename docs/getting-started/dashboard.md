@@ -14,7 +14,7 @@ If you're on a free trial, you'll see a notice showing how many days remain. Thi
 
 The Dashboard displays:
 
-- **Profile**: Your avatar and basic information, with a link to edit your profile
+- **Profile**: Your avatar and basic information, with a link to edit your profile (Hover over the card to see the link)
 - **Companies**: Companies you belong to, with quick access to company pages
 - **Upcoming Events**: Events you're involved with, organized by date
 - **Prior Events**: Expand to see completed events

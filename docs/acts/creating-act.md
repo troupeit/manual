@@ -6,6 +6,8 @@ sidebar_position: 1
 
 Acts represent individual performances. Each act contains all the information needed for your technical team and MC.
 
+Performers create Acts, and Acts can be reused across multiple shows. 
+
 ## Create an Act
 
 1. From your Dashboard, click **New Act**

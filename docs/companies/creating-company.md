@@ -12,7 +12,7 @@ When you first sign up, you can create your **first company for free** as part o
 
 ## Steps to Create a Company
 
-1. From your Dashboard, click **New Company**
+1. From your Dashboard, click **New** on the Companies card
 2. Enter the company name and description
 3. Configure company settings (see [Company Settings](/docs/companies/company-settings))
 4. Click **Create Company**

@@ -9,20 +9,16 @@ When performers submit acts to your event, you'll need to review and manage them
 ## Viewing Submissions
 
 1. Go to the event page
+2. Select or create a show to add acts to
 2. View submissions in the **Submissions** panel
 3. Each submission shows:
    - Act name and performer
    - Submission date
    - Act details and media
 
-## Adding Submissions to Shows
+## Adding Submitted Acts to shows
 
-Once an act is submitted:
-
-1. Open the show editor
-2. Find the act in the **Submissions** panel
-3. Click the act to add it to the schedule
-4. Or use **Add Act** to search for any act in your company
+See the section on [adding acts](../shows/adding-acts-notes) for more information.
 
 ## Submission Requirements
 

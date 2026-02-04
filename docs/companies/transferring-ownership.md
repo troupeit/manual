@@ -4,7 +4,7 @@ sidebar_position: 7
 
 # Transferring Company Ownership
 
-As a company owner, you can transfer ownership of your company to another team member. This is useful when leadership changes or you want to hand off management responsibilities to someone else.
+As a company owner, you can transfer ownership of your company to another team member. This is useful when leadership changes or you want to hand off management responsibilities to someone else. Owner status allows management of Billing and full company access. 
 
 ## Who Can Transfer Ownership?
 
@@ -45,7 +45,7 @@ When you transfer ownership:
 ## Billing and Subscriptions
 
 :::warning Important Billing Information
-When ownership is transferred, any active subscription is **immediately cancelled**. Stripe will automatically issue a prorated refund for any unused time on the subscription.
+When ownership is transferred, the active subscription for the company is **immediately cancelled**. Stripe will automatically issue a prorated refund for any unused time on the subscription.
 :::
 
 **For the previous owner:**
