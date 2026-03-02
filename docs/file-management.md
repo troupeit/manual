@@ -8,7 +8,8 @@ TroupeIT provides a file manager for organizing your media.
 
 ## Accessing Files
 
-- Go to **Settings** → **Files**
+- Access a company's files by clicking **Files** on any of your companies in the Dashboard. 
+- Access your files by clicking **Your Files** on the **Your Acts** card in the Dashboard. 
 - Or access through the act editor
 
 ## Supported File Types

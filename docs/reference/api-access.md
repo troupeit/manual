@@ -35,7 +35,7 @@ The API allows you to:
 
 ## Documentation
 
-Full API documentation is available at `/api/v1/docs` when logged in to TroupeIT.
+Full API documentation is available at https://troupeit.com/api/v1/docs when logged in to TroupeIT.
 
 ## Rate Limits
 
