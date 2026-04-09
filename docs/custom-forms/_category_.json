@@ -1,0 +1,8 @@
+{
+  "label": "Custom forms",
+  "position": 4.5,
+  "link": {
+    "type": "generated-index",
+    "description": "Build application forms, collect submissions, and optionally charge an application fee."
+  }
+}

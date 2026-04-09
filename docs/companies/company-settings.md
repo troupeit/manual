@@ -29,3 +29,11 @@ Control who can invite new members:
 
 - **Admins only**: Only Producers and Owners can invite new members
 - **Admins and existing members**: Any member can share the invitation link
+
+## Payout setup (custom forms)
+
+When the **custom forms** feature is enabled for your site, an extra sidebar section appears: **Payout setup**.
+
+Use it to connect **Stripe** so your company can collect its share of **application fees** from paid custom forms. Until Stripe onboarding and TroupeIT approval are complete, you cannot publish forms that charge a fee.
+
+See [Paid forms and payouts](../custom-forms/paid-forms-payouts) for step-by-step guidance.

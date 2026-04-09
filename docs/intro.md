@@ -26,6 +26,7 @@ TroupeIT is perfect for any event with multiple acts or performances, such as:
 - **PDF Export**: Generate professional cue sheets and running orders
 - **QLab Integration**: Export directly to QLab for audio playback
 - **Support for Multiple Venues**: Manage different stages and rooms within events
+- **Custom Forms**: Build application-style forms for your company, collect submissions, and optionally charge an application fee (when enabled for your site)
 
 ## TroupeIT Terminology
 
