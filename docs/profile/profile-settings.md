@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Profile Settings
 
-Access your profile settings by clicking **Settings** in the navigation menu or the edit button on your dashboard profile card.
+Open **Edit Profile** from your **avatar menu** (top right), or use **Edit profile** on the **Dashboard** profile card (hover the card on desktop). Both go to your settings page (`/settings/edit/`).
 
 ## Profile Information
 

@@ -8,11 +8,13 @@ TroupeIT has a built-in support system to help you with any issues.
 
 ## Getting Help
 
-### In-App Support
+### In-app support
 
-1. Click **Support** in the navigation menu
+1. Open **Support** from the **footer** at the bottom of most pages (or go to `/about/support` on the TroupeIT site)
 2. Fill out the support form with your question or issue
-3. You'll receive an email confirmation with your ticket number
+3. You will receive an email confirmation with your ticket number
+
+Signed-in users with open tickets may also use **Support** / ticket links from product flows when TroupeIT shows them.
 
 ### Email Support
 

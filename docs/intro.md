@@ -19,14 +19,16 @@ TroupeIT is perfect for any event with multiple acts or performances, such as:
 
 ## Key Features
 
-- **Show Management**: Create detailed cue sheets with timing, technical notes, and media files
-- **Real-Time Collaboration**: Track show progress live with your entire crew
-- **Act Submissions**: Let performers submit their acts and technical requirements
-- **Media Management**: Store and organize music, videos, and images for your shows
-- **PDF Export**: Generate professional cue sheets and running orders
-- **QLab Integration**: Export directly to QLab for audio playback
-- **Support for Multiple Venues**: Manage different stages and rooms within events
-- **Custom Forms**: Build application-style forms for your company, collect submissions, and optionally charge an application fee (when enabled for your site)
+- **Show management**: Build schedules and cue sheets with timing, technical notes, and media
+- **Live show tools**: Run the show with Live View and real-time collaboration
+- **Acts**: Performers create acts with tech details; producers review submissions and add them to shows
+- **File library**: Upload, search, and organize audio, video, and images—per company and in your personal **Your Files** area
+- **Team chat**: Message in company, event, and show channels (and direct messages) from the dashboard
+- **Explore**: Discover public companies and productions
+- **Exports**: PDF cue sheets and running orders; **QLab** export for audio playback
+- **Multi-venue events**: Separate shows for different stages, days, or time slots
+- **Account extras**: Dark / light theme, profile and security settings, optional billing history, and a short **dashboard tour** for new teams
+- **Custom forms** *(when enabled for your site)*: Application-style forms, submissions, and optional paid applications—see [Custom forms](./custom-forms/building-forms)
 
 ## TroupeIT Terminology
 

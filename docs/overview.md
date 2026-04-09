@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3.5
+sidebar_position: 1.5
 ---
 
 # Overview
@@ -11,6 +11,18 @@ This page explains how TroupeIT is organized and the relationships between the c
 ![TroupeIT Hierarchy - Company contains Events, Events contain Shows, Shows contain Acts and Notes](/img/troupeit-hierarchy.png)
 
 Everything in TroupeIT flows from this hierarchy. Understanding it will help you organize your productions effectively.
+
+## Finding your way around
+
+After you sign in, most day-to-day work starts on the **Dashboard** (`/dashboard`). A few UI pieces show up everywhere:
+
+- **Top bar**: **Explore**; shortcuts to **Create Act** and **Create Event** (when you have a company); connection status; and your **avatar menu** (edit profile, **Your Files**, billing history if you have subscription billing on file, theme toggle, log out). On small screens you also get **Your Files** and the create buttons in the collapsible menu.
+- **Footer**: Links to **Support**, this **manual** (docs site), policies, blog, and other public pages.
+- **Dashboard**: Profile and **Companies** on the left (on large screens), **Upcoming** / **Prior** events and **Your Acts** on the right; **Activity** on the left on desktop or below acts on mobile. Use **Take a Tour** for a quick guided walkthrough when you have companies.
+- **Chat**: On the dashboard, open the **chat** control (speech-bubble icon) to see channels for your troupes, events, and shows, and to start direct messages.
+- **Per company** (in the Companies list, for stage managers and above): quick **Files**, **Acts**, **Invite** (producers), and **settings** for that company.
+
+Some menus (for example **BHOF** or **Admin**) only appear for specific roles or internal users.
 
 ## Companies
 

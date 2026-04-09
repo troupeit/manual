@@ -4,13 +4,15 @@ sidebar_position: 9
 
 # File Management
 
-TroupeIT provides a file manager for organizing your media.
+TroupeIT includes a **file manager** for uploading, searching, and reusing media (audio, video, images) across acts and productions.
 
-## Accessing Files
+## Accessing files
 
-- Access a company's files by clicking **Files** on any of your companies in the Dashboard. 
-- Access your files by clicking **Your Files** on the **Your Acts** card in the Dashboard. 
-- Or access through the act editor
+- **Per-company library**: On the **Dashboard**, in the **Companies** list, each company row has a **Files** button *(visible when you have stage-manager access or higher)*. That opens the browser scoped to that company (`/passets` with the company selected).
+- **Your personal files**: Open **Your Files** from your **avatar menu** (top right) or, on mobile, from the main nav. That opens `/passets` for files that belong to you.
+- **From an act**: You can also open or attach files while **editing an act**, as today.
+
+The file manager supports upload, search, filters, and cleanup of unused files where the product allows it—details can vary slightly by plan and context.
 
 ## Supported File Types
 
