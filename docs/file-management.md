@@ -47,6 +47,10 @@ From the file manager you can:
 
 Storage limits depend on your subscription plan. Check your company's billing page to see current usage and limits.
 
+## Audio analysis
+
+Uploaded audio files are automatically checked for playback quality and encoding authenticity. Warnings appear in the file detail panel and when attaching files to acts. See **[Audio Checks Reference](reference/audio-checks.md)** for the full list of checks, thresholds, and troubleshooting.
+
 :::tip Cleanup
 Periodically review and delete unused files to stay within your storage limits.
 :::
